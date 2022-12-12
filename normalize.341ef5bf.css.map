@@ -1,0 +1,1 @@
+{"version":3,"sources":["normalize.css"],"names":[],"mappings":"AAAA,KACE,6BAAiC,CACjC,aAAc,CACd,mBACF","file":"normalize.341ef5bf.css","sourceRoot":"..\\src","sourcesContent":["html {\n  font-family: \"Roboto\", sans-serif;\n  color: #060b35;\n  --color-sec: #616070;\n}\n"]}

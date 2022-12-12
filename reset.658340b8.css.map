@@ -1,0 +1,1 @@
+{"version":3,"sources":["reset.css"],"names":[],"mappings":"AAAA,cAIE,QAAS,CACT,SACF","file":"reset.658340b8.css","sourceRoot":"..\\src","sourcesContent":["body,\nh2,\na,\ndiv {\n  margin: 0;\n  padding: 0;\n}\n"]}
